@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="fr.tandjigora.a4inshield">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.4InShield">
+        <activity android:name=".ChildDashboard4"></activity>
+        <activity android:name=".ChildDashboard3" />
+        <activity android:name=".ChildDashboard2" />
+        <activity android:name=".ChildDashboard" />
+        <activity android:name=".CongratsWizardEnd_2" />
+        <activity android:name=".CongratsWizardEnd" />
+        <activity android:name=".AddChild" />
+        <activity android:name=".ConfirmProfile" />
+        <activity android:name=".AddProfile" />
+        <activity android:name=".AddDevice" />
+        <activity android:name=".Bienvenu" />
+        <activity android:name=".SpaceChose" />
+        <activity android:name=".SignIn">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

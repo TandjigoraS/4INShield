@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/congrats_wizard_end_2_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/congrats_wizard_end_2_text"
+        android:gravity="center"
+        android:textSize="26sp"
+        android:layout_marginTop="70dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <ImageView
+        android:id="@+id/congrats_wizard_end_2_logo"
+        android:layout_width="247dp"
+        android:layout_height="252dp"
+        android:src="@drawable/logo"
+        android:layout_marginTop="30dp"
+        app:layout_constraintTop_toBottomOf="@id/congrats_wizard_end_2_text_view"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="30dp"
+        app:cardCornerRadius="6dp"
+        android:elevation="5dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/congrats_wizard_end_2_logo">
+
+
+        <Button
+            android:id="@+id/congrats_wizard_end_2_button"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            style="@style/ButtonStyle"
+            android:text="@string/congrats_wizard_end_2_go_to_dashboard"
+            app:layout_constraintStart_toEndOf="@id/view_separation"
+            app:layout_constraintEnd_toEndOf="parent"/>
+    </androidx.cardview.widget.CardView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

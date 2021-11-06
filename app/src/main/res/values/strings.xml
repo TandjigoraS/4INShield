@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">4InShield</string>
+    <string name="connection_succeed">Authentication successful</string>
+    <string name="error_authentication_canceled">Error authentication</string>
+    <string name="error_no_internet">No internet connection</string>
+    <string name="error_unknown_error">Unknown error</string>
+
+
+    <string name="facebook_application_id">415918583466733</string>
+    <string name="fb_login_protocol_scheme">fb415918583466733</string>
+    <string name="sign_in_title">Welcome to 4In Shield!\nSign in to continue</string>
+    <string name="username">Username</string>
+    <string name="acceptation_terms_conditions">I herby accept terms and conditions</string>
+    <string name="sign_in">Sign in</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm your password</string>
+    <string name="subtitle_activity_space_chose">Who is going to use this device?</string>
+    <string name="subtitle_activity_bienvenu">Welcome to 4IN Shield</string>
+    <string name="parent_text_view">Parents</string>
+    <string name="child_text_view">Child</string>
+    <string name="button_start_text_view">Start</string>
+    <string name="subtitle_activity_add_device">Please add your child\'s devices</string>
+    <string name="subtitle_activity_description_add_device">The information from your child’s device will help us to assess their mental health, duration of sleep, places visited, used applications  etc.  It also gives you the ability to block or allow installed applications</string>
+    <string name="subtitle_activity_steps_add_device">"Please follow the following steps: /n
+        1. Bring your child’s mobile phone /n
+        2. Scan this QR code with your child’s device camera /n
+        3. You will be redirected to the 4IN shield application download page /n
+        4. Once the application is installed, click Next "</string>
+    <string name="next_button">Next</string>
+    <string name="skip_button">Skip</string>
+    <string name="add_profile_title">Please enter your child’s social media account information</string>
+    <string name="add_profile_description">This information will help us to protect your child from online abusive content and cyberharassment</string>
+    <string name="socialNetworkPlatform">Social network platform (Drop down)</string>
+    <string name="socialNetworkUserName">Social network user name</string>
+    <string name="socialNetworkURL">Social network page URL</string>
+    <string name="confirm_profile_description">Your child’s profile information has been successfully added</string>
+    <string name="confirm_profile_add_new_profile">Add new profile</string>
+    <string name="confirm_profile_continue">Continue</string>
+    <string name="confirm_profile_modify_profile_information">Modify profile information</string>
+    <string name="add_child_text">Please enter the required information to complete your child’s profile</string>
+    <string name="add_child_first_name">First name</string>
+    <string name="add_child_last_name">Last name</string>
+    <string name="add_child_gender">Gender</string>
+    <string name="add_child_age">Age</string>
+    <string name="congrats_wizard_end_text"><br>Congradulation!</br>\n You have successfully completed you child profile.</string>
+    <string name="congrats_wizard_end_add_another_child_text">Add another child</string>
+    <string name="congrats_wizard_end_continue_text">Continue</string>
+    <string name="congrats_wizard_end_2_text">Thank you for your confidence in us.</string>
+    <string name="congrats_wizard_end_2_go_to_dashboard">Go to dashboard</string>
+    <string name="child_dashboard_title">Child first name</string>
+    <string name="person">Person</string>
+    <string name="content_description_person">Person</string>
+    <string name="child_first_name">Child first name</string>
+    <string name="child_last_name">Last name</string>
+    <string name="age">Age</string>
+    <string name="month">Month</string>
+    <string name="day">Day</string>
+    <string name="week">Week</string>
+    <string name="danger_level">Danger Level</string>
+    <string name="high">High</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="control">Control</string>
+    <string name="social_media">Social Media</string>
+    <string name="alerts">Alerts</string>
+    <string name="birth_age">Birth Age</string>
+
+
+</resources>

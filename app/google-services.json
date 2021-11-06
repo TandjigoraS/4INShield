@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "228339848407",
+    "project_id": "inshield-67778",
+    "storage_bucket": "inshield-67778.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228339848407:android:083183234781f83b1e4c92",
+        "android_client_info": {
+          "package_name": "fr.tandjigora.a4inshield"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228339848407-ricgt1i8e43utn4tfhjeekpttulndrt5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.tandjigora.a4inshield",
+            "certificate_hash": "93805201ff1dcebf914500cb6c5fc95b43615d21"
+          }
+        },
+        {
+          "client_id": "228339848407-k9v7sor8u6lrae7521n6v7iqohpu6vo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXOpXrucVsVTvwZ9B1rZSxKMdi_QkMGAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228339848407-k9v7sor8u6lrae7521n6v7iqohpu6vo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
